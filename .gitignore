@@ -1,0 +1,5 @@
+*_wrap.cxx
+*.py
+!setup.py
+build/
+*.swp
